@@ -1,0 +1,97 @@
+
+body{
+	background: url(../images/background.jpg) top no-repeat;
+	padding-top: 80px;
+	margin: 5px;
+}
+#top nav {
+	background: #1C1B1B ;
+	padding: 4px 0px 4px 0px ;
+	
+}
+
+.navbar-right {
+	margin: -5px 5px 5px 5px;
+        padding-right: -5px;
+	
+}
+
+#navStackLeft {
+    boder-right : 1px solid red ;
+}
+#search-text {
+	width: 260px;
+
+}
+h1 {
+	font-family: Lobster;
+	color: #C50C0C;
+}
+
+.preview-product {
+	height: 450px;
+
+}
+.img-display {
+
+	height: 300px;
+        width: 350px;
+}
+
+.img-detail {
+    width: 420px;
+    height: 350px;
+}
+
+.glyphicon-shopping-cart {
+	font-size: 19px;
+}
+
+#cart-detail span {
+	font-size: 25px;
+	text-transform: uppercase;
+	color: red;
+}
+
+.footer {
+	text-align: center;
+	color: black;
+}
+
+#information {
+	font-size: 30px;
+	
+}
+.banner-left {
+	height: 600px;
+	background-color: CCCCCC;
+	border-radius: 10px;
+}
+
+.nameTitle {
+	color: red ;
+}
+
+.btn-addLarge {
+    /*margin-bottom: auto;*/
+    margin-top: 7px;
+    margin-right: - 5px;
+    /*height: 50px;*/
+}
+
+#btn-addProduct {
+    margin-top: 3px;
+    margin-right: -4px;
+
+    
+}
+
+/*hr {
+	font-size: 30px;
+	color: red;
+	text-decoration: noshade;
+}*/
+
+/*.col-md-8 {
+	color: red;
+}*/
